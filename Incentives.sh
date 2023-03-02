@@ -1,7 +1,5 @@
 #!/bin/bash
 
-source <(curl -s https://raw.githubusercontent.com/luonghieu184/Nibiru-Cronjob/main/Incentives.sh)
-
 echo -e '\n\e[42mRunning cronj\e[0m\n' && sleep 1
 
 # Faucet NIBIRU token
